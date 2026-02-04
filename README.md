@@ -1,5 +1,7 @@
 # Formal Math Reasoning
 
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://formal-math-reasoning.github.io)
+
 We research the intersection of **Large Language Models** and **Formal Verification**. Our goal is to bridge natural language mathematics and machine-verifiable proofs through autoformalisation.
 
 ---
